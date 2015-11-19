@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\tu_eval\bin\Debug\tu_eval.dll" total="9" errors="0" failures="2" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-09-21" time="16:29:39">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="LC246-19-05143" user="1334725" user-domain="LC246-19-05143" />
+  <culture-info current-culture="fr-CA" current-uiculture="fr-FR" />
+  <test-suite type="Assembly" name="C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\tu_eval\bin\Debug\tu_eval.dll" executed="True" result="Failure" success="False" time="0.041" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="tu_eval" executed="True" result="Failure" success="False" time="0.040" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="Class1" executed="True" result="Failure" success="False" time="0.040" asserts="0">
+            <results>
+              <test-case name="tu_eval.Class1.testeBrelan" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="tu_eval.Class1.testeCarre" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="tu_eval.Class1.testeCouleur" executed="True" result="Failure" success="False" time="0.001" asserts="1">
+                <failure>
+                  <message><![CDATA[  Expected string length 38 but was 37. Strings differ at index 0.
+  Expected: "Carte haute 10, au 9, au 8, au 7, au 5"
+  But was:  " rien: dix, neuf, huit, cinq, quatre."
+  -----------^
+]]></message>
+                  <stack-trace><![CDATA[à tu_eval.Class1.testeCouleur() dans c:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\tu_eval\Class1.cs:ligne 85
+]]></stack-trace>
+                </failure>
+              </test-case>
+              <test-case name="tu_eval.Class1.testeMainPleine" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="tu_eval.Class1.testePaire" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="tu_eval.Class1.testePaires" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="tu_eval.Class1.testeRien" executed="True" result="Failure" success="False" time="0.001" asserts="1">
+                <failure>
+                  <message><![CDATA[  Expected string length 36 but was 24. Strings differ at index 0.
+  Expected: "rien: dix, neuf, huit, cinq, quatre."
+  But was:  "Séquence couleur au huit"
+  -----------^
+]]></message>
+                  <stack-trace><![CDATA[à tu_eval.Class1.testeRien() dans c:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\tu_eval\Class1.cs:ligne 32
+]]></stack-trace>
+                </failure>
+              </test-case>
+              <test-case name="tu_eval.Class1.testeSeq" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="tu_eval.Class1.testeSeqCoul" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

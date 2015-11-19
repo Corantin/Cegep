@@ -1,0 +1,154 @@
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\bin\Debug\Animation.exe.config
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\bin\Debug\Animation.exe
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\bin\Debug\Animation.pdb
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\AnimationInStyle.baml
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\AnimationPlayer.baml
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\CachingTest2.baml
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\Easing.baml
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\ImageWipe.baml
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\FrameRates.baml
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\Menu.baml
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\CodeAnimation.baml
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\AnimationInStyle.g.cs
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\AnimationPlayer.g.cs
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\CachingTest.g.cs
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\CachingTest2.g.cs
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\CustomEasingFunction.g.cs
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\Easing.g.cs
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\ImageWipe.g.cs
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\FrameRates.g.cs
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\Menu.g.cs
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\CodeAnimation.g.cs
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\XamlAnimation.g.cs
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\App.g.cs
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\Animation_MarkupCompile.cache
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\Animation_MarkupCompile.lref
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\CachingTest.baml
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\CustomEasingFunction.baml
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\XamlAnimation.baml
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\Animation.g.resources
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\Animation.Properties.Resources.resources
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\Animation.csproj.GenerateResource.Cache
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\Animation.exe
+C:\alainp\Professeur\St-jerome\aautomne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\Animation.pdb
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\bin\Debug\Animation.exe.config
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\Animation.exe
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\Animation.pdb
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\bin\Debug\Animation.exe
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\bin\Debug\Animation.pdb
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\Animation.csprojResolveAssemblyReference.cache
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\AnimationInStyle.baml
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\AnimationPlayer.baml
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\CachingTest2.baml
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\Easing.baml
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\ImageWipe.baml
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\FrameRates.baml
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\Menu.baml
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\CodeAnimation.baml
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\AnimationInStyle.g.cs
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\AnimationPlayer.g.cs
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\CachingTest.g.cs
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\CachingTest2.g.cs
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\CustomEasingFunction.g.cs
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\Easing.g.cs
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\ImageWipe.g.cs
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\FrameRates.g.cs
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\Menu.g.cs
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\CodeAnimation.g.cs
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\XamlAnimation.g.cs
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\App.g.cs
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\Animation_MarkupCompile.cache
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\Animation_MarkupCompile.lref
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\CachingTest.baml
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\CustomEasingFunction.baml
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\XamlAnimation.baml
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\Animation.g.resources
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\Animation.Properties.Resources.resources
+C:\Prof\Automne 2013\5B6\C#\WPF Pro\Pro WPF\Chapter15\Animation\obj\Debug\Animation.csproj.GenerateResource.Cache
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\bin\Debug\Animation.exe.config
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\Animation.exe
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\Animation.pdb
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\bin\Debug\Animation.exe
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\bin\Debug\Animation.pdb
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\AnimationInStyle.baml
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\CachingTest2.baml
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\Easing.baml
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\FrameRates.baml
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\Menu.baml
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\AnimationInStyle.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\CachingTest2.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\CustomEasingFunction.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\Easing.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\FrameRates.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\Menu.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\App.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\Animation_MarkupCompile.cache
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\Animation_MarkupCompile.lref
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\CustomEasingFunction.baml
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\Animation.g.resources
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\Animation.Properties.Resources.resources
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\Animation.csproj.GenerateResource.Cache
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\CodeCS.baml
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\CodeCS.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\Xaml.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\Xaml.baml
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\GadgetJourNuit.baml
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\GadgetRoiReine.baml
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\GadgetJourNuit.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\GadgetRoiReine.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\Balayage.baml
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\Balayage.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\Superposition.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\Superposition.baml
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\TrajetDeLaMouche.baml
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\TrajetDeLaMouche.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\JeuneVieux.baml
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\JeuneVieux.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Pro WPF\Chapter15\Animation\obj\Debug\Animation.csprojResolveAssemblyReference.cache
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\bin\Debug\Animation.exe.config
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\Animation.exe
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\Animation.pdb
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\bin\Debug\Animation.exe
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\bin\Debug\Animation.pdb
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\Animation.csprojResolveAssemblyReference.cache
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\AnimationInStyle.baml
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\GadgetJourNuit.baml
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\GadgetRoiReine.baml
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\JeuneVieux.baml
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\CachingTest2.baml
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\Easing.baml
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\Balayage.baml
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\FrameRates.baml
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\Menu.baml
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\CodeCS.baml
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\TrajetDeLaMouche.baml
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\AnimationInStyle.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\GadgetJourNuit.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\GadgetRoiReine.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\JeuneVieux.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\Superposition.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\CachingTest2.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\CustomEasingFunction.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\Easing.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\Balayage.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\FrameRates.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\Menu.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\CodeCS.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\TrajetDeLaMouche.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\Xaml.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\App.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\Animation_MarkupCompile.cache
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\Animation_MarkupCompile.lref
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\Superposition.baml
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\CustomEasingFunction.baml
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\Xaml.baml
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\Animation.g.resources
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\Animation.Properties.Resources.resources
+C:\Users\alain\Dropbox\Aut2014\5B6\CS\Exemples applications WPF\Animation\obj\Debug\Animation.csproj.GenerateResource.Cache
+C:\atelier\5B6\Animation\bin\Debug\Animation.exe.config
+C:\atelier\5B6\Animation\obj\Debug\Animation.exe
+C:\atelier\5B6\Animation\obj\Debug\Animation.pdb

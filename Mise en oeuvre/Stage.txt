@@ -1,0 +1,12 @@
+ProItek
+OpenMind -> Web (Mirabel)
+Viglob -> TéléTravail + Web + Support technique
+OTF ->  Ramasse des données web(SainteMargerite)
+Devco -> PHP (BoisBriand Bord de 15/640)
+Ville de Mirabel -> Support Technique + aide à l'usager
+FS solution santé -> MYSQL Asp.Net 
+Cyber Génération -> PHP + migration d'app Web (terrebone)
+Planete Hoster -> Développeur (front hand) +* Hebergeur Support technique(Laval)
+
+
++* = deux stages

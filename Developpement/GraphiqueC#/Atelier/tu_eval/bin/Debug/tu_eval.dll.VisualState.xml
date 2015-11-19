@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1010]C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\tu_eval\bin\Debug\tu_eval.dll</TopNode>
+  <SelectedNode>[0-1000]tu_eval.Class1</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1010]C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\tu_eval\bin\Debug\tu_eval.dll" Expanded="true" />
+    <Node UniqueName="[0-1011]tu_eval" Expanded="true" />
+    <Node UniqueName="[0-1000]tu_eval.Class1" Expanded="true" />
+  </Nodes>
+</VisualState>

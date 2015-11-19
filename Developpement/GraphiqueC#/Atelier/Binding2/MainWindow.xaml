@@ -1,0 +1,16 @@
+﻿<Window x:Class="Binding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Canvas>
+        <Label Canvas.Top="10" Canvas.Left="30">Rencontre</Label>
+        <Label Canvas.Top="50" Canvas.Left="10">Sujet:</Label>
+        <TextBox Text="{Binding Path=Sujet,Mode=TwoWay}" Name="RencontreSujet" Canvas.Top="50" Canvas.Left="60" Width="200"></TextBox>
+        <Label Canvas.Top="80" Canvas.Left="10">Date:</Label>
+        <DatePicker Text="{Binding Path=Date,Mode=TwoWay}" Name="RencontreDate" Canvas.Top="80" Canvas.Left="60"></DatePicker>
+        <Button Name="AfficherModele" Canvas.Top="120" Canvas.Left="70" Click="AfficherModele_Click">Afficher Modèle</Button>
+        <Button Name="ModifierModele" Canvas.Top="150" Canvas.Left="70" Click="ModifierModele_Click">Modifier Modèle</Button>
+
+    </Canvas>
+</Window>
+

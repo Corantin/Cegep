@@ -1,0 +1,9 @@
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\tu_eval\bin\Debug\tu_eval.dll
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\tu_eval\bin\Debug\tu_eval.pdb
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\tu_eval\bin\Debug\EvaluateurMainTexas.exe
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\tu_eval\bin\Debug\nunit.framework.dll
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\tu_eval\bin\Debug\EvaluateurMainTexas.pdb
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\tu_eval\bin\Debug\nunit.framework.xml
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\tu_eval\obj\Debug\tu_eval.csprojResolveAssemblyReference.cache
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\tu_eval\obj\Debug\tu_eval.dll
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\tu_eval\obj\Debug\tu_eval.pdb

@@ -1,0 +1,7 @@
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\EvaluateurMainTexas\bin\Debug\EvaluateurMainTexas.exe.config
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\EvaluateurMainTexas\bin\Debug\EvaluateurMainTexas.exe
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\EvaluateurMainTexas\bin\Debug\EvaluateurMainTexas.pdb
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\EvaluateurMainTexas\obj\Debug\EvaluateurMainTexas.exe
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\EvaluateurMainTexas\obj\Debug\EvaluateurMainTexas.pdb
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\EvaluateurMainTexas\bin\Debug\nunit.framework.dll
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\EvaluateurMainTexas\bin\Debug\nunit.framework.xml

@@ -1,0 +1,28 @@
+﻿<Window x:Class="Animation.Menu"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Menu" Height="405.8" Width="254.4"
+    >
+    <Grid>
+      <StackPanel Margin="5" Button.Click="ButtonClick">
+            <Label>Diverses techniques d'animation</Label>
+        <Button>CodeCS</Button>
+        <Button>Xaml</Button>
+        <!--<Button>AnimationInStyle</Button>-->
+            <Button>GadgetRoiReine</Button>
+            <Button>GadgetJourNuit</Button>
+            <Button>JeuneVieux</Button>
+            <Button>Balayage</Button>
+          
+        <!--<Button>Easing</Button>
+        <Button>CustomEasingFunction</Button>
+        <Button>FrameRates</Button>-->
+
+        <Button>Superposition</Button>
+        <!--<Button>CachingTest2</Button>-->
+        <Button>TrajetDeLaMouche</Button>  
+
+        </StackPanel>
+        
+    </Grid>
+</Window>

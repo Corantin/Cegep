@@ -1,0 +1,13 @@
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\Binding\bin\Debug\Binding.exe.config
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\Binding\bin\Debug\Binding.exe
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\Binding\bin\Debug\Binding.pdb
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\Binding\obj\Debug\Binding.csprojResolveAssemblyReference.cache
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\Binding\obj\Debug\MainWindow.baml
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\Binding\obj\Debug\MainWindow.g.cs
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\Binding\obj\Debug\App.g.cs
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\Binding\obj\Debug\Binding_MarkupCompile.cache
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\Binding\obj\Debug\Binding.g.resources
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\Binding\obj\Debug\Binding.Properties.Resources.resources
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\Binding\obj\Debug\Binding.csproj.GenerateResource.Cache
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\Binding\obj\Debug\Binding.exe
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\Binding\obj\Debug\Binding.pdb

@@ -1,0 +1,12 @@
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\ExploRessources\bin\Debug\ExploRessources.exe.config
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\ExploRessources\bin\Debug\ExploRessources.exe
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\ExploRessources\bin\Debug\ExploRessources.pdb
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\ExploRessources\obj\Debug\MainWindow.baml
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\ExploRessources\obj\Debug\MainWindow.g.cs
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\ExploRessources\obj\Debug\App.g.cs
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\ExploRessources\obj\Debug\ExploRessources_MarkupCompile.cache
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\ExploRessources\obj\Debug\ExploRessources.g.resources
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\ExploRessources\obj\Debug\ExploRessources.Properties.Resources.resources
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\ExploRessources\obj\Debug\ExploRessources.csproj.GenerateResource.Cache
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\ExploRessources\obj\Debug\ExploRessources.exe
+C:\Users\1334725\Dropbox\CEGEP\Developpement\GraphiqueC#\Atelier\ExploRessources\obj\Debug\ExploRessources.pdb

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IntroAndroid</string>
+
+    <string name="Bonjour">Bonjou</string>
+    <string name="Parametre">Settings</string>
+</resources>

@@ -1,0 +1,11 @@
+﻿<Window x:Class="Animation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <Button Click="StretchImage_Click">Stretch Image</Button>
+        <Button Click="AvecTimer_Click">Avec Timer</Button>
+        <Button Click="PromenadeC_Click">Promenade C#</Button>
+        <Button Click="PromenadeXAML_Click">Promenade XAML</Button>
+    </StackPanel>
+</Window>
