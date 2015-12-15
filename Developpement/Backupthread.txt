@@ -1,0 +1,64 @@
+if (!String.IsNullOrEmpty(App.MembreCourant.NomUtilisateur))
+                {
+                    bool ancienStatutAdmin = App.MembreCourant.EstAdministrateur;
+                    bool ancienStatutBanni = App.MembreCourant.EstBanni;
+
+                    App.MembreCourant = ServiceFactory.Instance.GetService<IMembreService>().Retrieve(new RetrieveMembreArgs { IdMembre = App.MembreCourant.IdMembre });
+
+                    LstPlat = platAsync.RetrieveAll().ToList();
+
+                   /* if (ancienneLstPlat.Count != LstPlat.Count)
+                    {
+                        Dispatcher.Invoke(AppliquerNouveauChangementStatut);
+                        ancienneLstPlat = platAsync.RetrieveAll().ToList();
+                    }*/
+
+                    foreach (var plat in LstPlat)
+                    {
+                        if (plat.NbVotes != ancienneLstPlat.Find(p => p.IdPlat == plat.IdPlat).NbVotes)
+                        {
+                            Dispatcher.Invoke(AppliquerNouveauChangementStatut);
+                            ancienneLstPlat = platAsync.RetrieveAll().ToList();
+                        }
+                    }
+
+                    if (App.MembreCourant.EstAdministrateur != ancienStatutAdmin
+                        || App.MembreCourant.EstBanni != ancienStatutBanni)
+                    {
+                        Dispatcher.Invoke(AppliquerNouveauChangementStatut);
+                    }
+
+                    if (App.MembreCourant.DerniereMaj != "")
+                    {
+                        lstIdNouveauPlat.Clear();
+
+                        string str = "";
+                        foreach (var plat in LstPlat)
+                        {
+                            if (plat.DateAjout.CompareTo(App.MembreCourant.DerniereMaj) > -1)
+                            {
+                                if (!lstIdNouveauPlat.Exists(id => id == plat.IdPlat))
+                                    lstIdNouveauPlat.Add((int)plat.IdPlat);
+                            }
+                            str += plat.Nom + " (" + plat.DateAjout + ")\n";
+
+                        }
+                        //MessageBox.Show(str);
+                        if (lstIdNouveauPlat.Count > 0)
+                        {
+                            List<Plat> lstPlatTemp = LstPlat.FindAll(plat => lstIdNouveauPlat.Contains((int)plat.IdPlat));
+
+                            if (NouveauxPlats.Count != lstPlatTemp.Count)
+                            {
+                                NouveauxPlats = lstPlatTemp;
+                                Dispatcher.Invoke(DessinerNotificationNvPlat);
+                            }
+                        }
+                    }
+                }
+                else
+                {
+                    NouveauxPlats.Clear();
+                }
+
+                Thread.Sleep(SLEEP_NOTIFICATION_TIME); // On fait une pause pour ne pas surcharger le CPU
